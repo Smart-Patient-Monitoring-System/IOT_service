@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/api/sensordata")
+@RequestMapping("/api/iot/sensordata")
 @CrossOrigin(origins = "*")
 @RequiredArgsConstructor
 @Slf4j
